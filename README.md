@@ -54,7 +54,13 @@ Repository:
 
 https://github.com/MohammadMoradzad/Nlrc5-proteomics-heatmaps
 
+## Selected Publications
 
+- Shukla A, Moradzad M, et al.
+  *NLRC5 expression within tumor cells is critical to activate adaptive and innate antitumor immune responses.*
+  Journal for ImmunoTherapy of Cancer.
+
+https://doi.org/10.1093/immadv/ltag010
 
 ## Contact
 
